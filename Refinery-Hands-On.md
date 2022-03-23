@@ -56,7 +56,7 @@ Der Job wird dann auf alle daten aus den Quellen angewendet nicht nur auf einem 
 - Benachrichtigungen aus
 - Zusammenfassung prüfen und mit "Create" die Jobausführung starten
 9. Abschluss<br>
-Das Ergebnis des Refinery laufs kann im Projekt überprüft werden.
+Das Ergebnis des Refinery Laufs kann im Projekt überprüft werden.
 
 
 
