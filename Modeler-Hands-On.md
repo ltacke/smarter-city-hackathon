@@ -60,10 +60,13 @@ Es entsteht ein Pfeil der beide Knoten miteinander verbindet und die Richtung de
 
 
 Doppelklick auf den __Charts__-Knoten. Rechts öffnet sich ein Fenster und hier auf den blauen Button __Launch Chart Builder__ klicken
+
 ![ScreenShot](https://raw.github.com/teonlacke/smarter-city-hackathon/main/readme_modeler/07.png)
+
 
 Es öffnet sich die Visualisierungs-Engine.
 Eine oder mehrere Variable auswählen und auf __Visualize Data__ klicken. Die Chart-Engine wählt automatisch eine passende Grafik aus.
+
 ![ScreenShot](https://raw.github.com/teonlacke/smarter-city-hackathon/main/readme_modeler/08.png)
 
 Im Chart Builder stehen 34 Visualsierungsmöglichkeiten zur Verfügung, mit denen man die Daten schnell und intutiv explorieren kann.
@@ -197,11 +200,13 @@ __________
 
 Hier endet unser Tutorial, das nur einen kleinen Einblick in die Funktionalitäten des Modelers geben konnte.
 
-Neben der klassischen Zeitreihen-Analyse bietet der Modeler auch noch eine Vielzahl an Machine Learning Algorithmen (z.B. XGBoost, Random Forest etc.), mit denen man auch eine Vorhersage des zukünftigen Verkehrsaufkommen bewerkstelligen könnte.
+_P.S. Neben der klassischen Zeitreihen-Analyse bietet der Modeler auch noch eine Vielzahl an Machine Learning Algorithmen (z.B. XGBoost, Random Forest etc.), mit denen man auch eine Vorhersage des zukünftigen Verkehrsaufkommen bewerkstelligen könnte._
 
 __________
 
 
 Weiterführende Informationen:
+
 Modeler Flow Knowledge Center: https://dataplatform.cloud.ibm.com/docs/content/wsd/spss-modeler.html
+
 Neben einer Eräuterung einzelner Modeler-Knoten findet man hier noch zahlreiche, weitere Tutorials.
