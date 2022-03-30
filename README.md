@@ -7,7 +7,7 @@ In diesem Repository findet ihr ergänzendes Material, welches ihr über die zwe
 1. [💻 Notebooks zum Daten laden und cleanen](https://github.com/teonlacke/smarter-city-hackathon/tree/main/Notebooks)
    1. [🚙 TMS](https://github.com/teonlacke/smarter-city-hackathon/tree/main/Notebooks/TMS)
    2. [🚌 LVD](https://github.com/teonlacke/smarter-city-hackathon/tree/main/Notebooks/LVD)
-2. [SPSS Modeller Tutorial](https://github.com/teonlacke/smarter-city-hackathon/blob/main/Modeler-Hands-On.md)
+2. [SPSS Modeler Tutorial](https://github.com/teonlacke/smarter-city-hackathon/blob/main/Modeler-Hands-On.md)
    1. [Daten und Stream](https://github.com/teonlacke/smarter-city-hackathon/tree/main/Datensatz%20%26%20Stream%20f%C3%BCr%20Modeler-Hands-On)
 3. [Data Refinery](https://github.com/teonlacke/smarter-city-hackathon/blob/main/Refinery-Hands-On.md)
 4. [__FINALE DATEN__](https://github.com/teonlacke/smarter-city-hackathon/blob/main/Finale-Daten.md)
