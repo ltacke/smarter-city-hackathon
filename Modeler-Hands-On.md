@@ -1,5 +1,5 @@
 
-#  Modeler Flow Hands-on
+#  SPSS Modeler Flow Hands-on
 
 
 In diesem Tutorial werden TMS Daten (Traffic Measurement System Data) aus Finnland exploriert, aufbereitet und analysiert. Mittels einer Zeitreihenanalyse wird zudem eine Progose des Verkehrsaufkommen an einer ausgewählten RoadStation vorgenommen. Eine nähere Beschreibung der Daten findet sich unter: https://www.digitraffic.fi/en/road-traffic/lam/
@@ -16,7 +16,7 @@ ___________
 
 
 ### 1. Modeler Flow öffnen
-Klicke auf den blauen Button: __Add to project__ (oben rechts) und wähle dann __Modeler Flow__ aus
+Klicke auf den blauen Button: __New asset__ (oben rechts) und wähle dann __SPSS Modeler__ aus
 
 ![ScreenShot](attachments_pictures//readme_modeler/01.png)
 
