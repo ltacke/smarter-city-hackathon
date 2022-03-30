@@ -16,7 +16,7 @@ ___________
 
 
 ### 1. Modeler Flow öffnen
-Klicke auf den blauen Button: __New asset__ (oben rechts) und wähle dann SPSS Modeler__ aus
+Klicke auf den blauen Button: __New asset__ (oben rechts) und wähle dann __SPSS Modeler__ aus
 
 ![ScreenShot](attachments_pictures//readme_modeler/01.png)
 
